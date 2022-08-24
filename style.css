@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Syne", sans-serif;
+}
+
+body {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 10%;
+}
+
+button {
+  padding: 0.8rem 3rem;
+  margin-top: 5rem;
+  background: black;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+div {
+  background: yellow;
+  padding: 5rem 0;
+  margin: 5rem 0;
+  border-radius: 3px;
+
+}
+
+.material-symbols-outlined {
+  font-weight: 100;
+  font-size: large;
+  padding: 10px 0px;
+}
+
+textarea {
+
+  width: 300px;
+  height: 200px;
+  padding: 1rem;
+  text-align: center;
+}
